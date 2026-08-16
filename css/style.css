@@ -316,4 +316,5 @@ footer {
 
 .about-left {
   align-self: start;
+  transform: translateY(-55px);
 }
