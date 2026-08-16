@@ -303,3 +303,17 @@ footer {
   }
 
 }
+
+/* ---------- About photo ---------- */
+
+.about-photo {
+  width: 100%;
+  max-width: 520px;
+  margin-top: 40px;
+  display: block;
+  object-fit: cover;
+}
+
+.about-left {
+  align-self: start;
+}
