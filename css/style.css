@@ -179,7 +179,9 @@ h2 {
 
 .text-column {
   max-width: 650px;
-  font-size: 1.2rem;
+  font-size: 1.35rem;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  line-height: 1.45;
 }
 
 .text-column p + p {
