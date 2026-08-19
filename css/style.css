@@ -322,10 +322,18 @@ footer {
 
   .site-header {
     align-items: flex-start;
+    flex-direction: column;
+    gap: 14px;
   }
 
   nav {
-    display: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 18px;
+  }
+
+  nav a {
+    font-size: 0.78rem;
   }
 
   .gallery {
